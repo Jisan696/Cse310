@@ -1,0 +1,75 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 5, 2020, 1:59:37 AM
+    Author     : Asus
+*/
+body{
+    margin: 0;
+    width: 100%;
+    height: auto;
+    padding: 0;
+}
+
+.logo{
+     transform: translate(35%,-40%); 
+}
+.background{
+    background-image: url(image/risen-wang-20jX9b35r_M-unsplash.png);
+    -webkit-background-size:cover;
+    background-size: cover;
+    background-position: center center ;
+    height: 100%;
+    position: fixed;
+    left: 0;
+    right: 0;
+    z-index: -1;
+    box-shadow: black;
+}
+
+
+.slider{
+    z-index: 2;
+    border: 1px solid #fff;
+    width: 650px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background: black;
+    padding: 30px 35px;
+    opacity: 0.8;
+    box-shadow: black;
+    border: none;
+    border-radius: 5px;
+}
+.button{
+    position: relative;
+    transform: translate(-2.5%,1225%); 
+    top: 50%;
+    left: 50%;
+    justify-content: center;
+    align-items: center;
+    border: none;
+}
+
+.slider h1{
+    text-align: center;
+    color: #fff;
+    font-size: 4em;
+    margin: 0;
+    font-family: baloo; 
+    font-weight: bold;
+}
+
+.slider p{
+    color: #fff;
+    text-align: center;
+    font-size: 22px;
+    font-family: poppins;
+    margin: 0 0 18px;
+}
+
