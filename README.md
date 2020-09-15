@@ -3,12 +3,12 @@
 **This is a gym management sytem made with html,css,Java jsp servlet**
 
 ## Features
-**
-a)	Login and sign up system (Using database)
-b)	Shows various Workout plans (Using database)
-c)	Shows available Equipments (Using database)
-d)	Admin panel by which website can be controlled (Using database)	
-e)	User Profile(Using Database)
-f)	Communication system (Special feature)
 
-**
+1)	Login and sign up system (Using database)
+2)	Shows various Workout plans (Using database)
+3)	Shows available Equipments (Using database)
+4)	Admin panel by which website can be controlled (Using database)	
+5)	User Profile(Using Database)
+6)	Communication system (Special feature)
+
+
